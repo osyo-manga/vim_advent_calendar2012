@@ -54,7 +54,7 @@ h2. 今月のスケジュール
 |351|11/16(土)|@syngan|"vim-gitlab 作った":http://d.hatena.ne.jp/syngan/20131116/1384528089|
 |352|11/17(日)|@deris0126|"VimConf2013に参加しました":http://deris.hatenablog.jp/entry/2013/11/17/010343|
 |353|11/18(月)|@manga_osyo|":QuickRun を codepad で実行する":http://d.hatena.ne.jp/osyo-manga/20131118/1384772262|
-|354|11/19(火)|@||
+|354|11/19(火)|@syui||
 |355|11/20(水)|@||
 |356|11/21(木)|@||
 |357|11/22(金)|@||
