@@ -55,7 +55,7 @@ h2. 今月のスケジュール
 |352|11/17(日)|@deris0126|"VimConf2013に参加しました":http://deris.hatenablog.jp/entry/2013/11/17/010343|
 |353|11/18(月)|@manga_osyo|":QuickRun を codepad で実行する":http://d.hatena.ne.jp/osyo-manga/20131118/1384772262|
 |354|11/19(火)|@syui|"VimでのMarkdownプレビューを快適にする方法を考えてみた":http://qiita.com/PSP_T/items/152e5ba8e0ff722fa47f|
-|355|11/20(水)|@||
+|355|11/20(水)|@supermomonoga||
 |356|11/21(木)|@||
 |357|11/22(金)|@||
 |358|11/23(土)|@||
