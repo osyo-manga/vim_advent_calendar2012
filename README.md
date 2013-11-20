@@ -56,7 +56,7 @@ h2. 今月のスケジュール
 |353|11/18(月)|@manga_osyo|":QuickRun を codepad で実行する":http://d.hatena.ne.jp/osyo-manga/20131118/1384772262|
 |354|11/19(火)|@syui|"VimでのMarkdownプレビューを快適にする方法を考えてみた":http://qiita.com/PSP_T/items/152e5ba8e0ff722fa47f|
 |355|11/20(水)|@supermomonoga||
-|356|11/21(木)|@||
+|356|11/21(木)|@LeafCage||
 |357|11/22(金)|@syngan||
 |358|11/23(土)|@||
 |359|11/24(日)|@||
