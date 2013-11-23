@@ -58,7 +58,7 @@ h2. 今月のスケジュール
 |355|11/20(水)|@supermomonoga|"neosnippetとsmartinputで＜CR＞キーのマッピングを共存させる":http://blog.supermomonga.com/articles/vim/share-cr-map-with-multiple-plugins.html|
 |356|11/21(木)|@LeafCage|"'nobuflisted' なバッファの作り方":http://leafcage.hateblo.jp/entry/2013/11/21/083830|
 |357|11/22(金)|@syngan|"vim-vimlint 作った":http://d.hatena.ne.jp/syngan/20131122/1385046290|
-|358|11/23(土)|@manga_osyo||
+|358|11/23(土)|@manga_osyo|"Vim でコマンドからインクルードを挿入するプラグインつくった":http://d.hatena.ne.jp/osyo-manga/20131123/1385218194|
 |359|11/24(日)|@akiyan||
 |360|11/25(月)|@syui||
 |361|11/26(火)|@supermomonga||
