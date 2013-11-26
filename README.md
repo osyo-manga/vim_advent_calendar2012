@@ -61,8 +61,8 @@ h2. 今月のスケジュール
 |358|11/23(土)|@manga_osyo|"Vim でコマンドからインクルードを挿入するプラグインつくった":http://d.hatena.ne.jp/osyo-manga/20131123/1385218194|
 |359|11/24(日)|@akiyan|"vim-textobj-php を作ったらphpビューテンプレートの編集が超捗った - akiyan.com":http://www.akiyan.com/blog/archives/2013/11/vim-textobj-php.html|
 |360|11/25(月)|@syui|"Vim script初心者講座 vol.2":http://mba-hack.blogspot.jp/2013/11/vim-script-vol2.html|
-|361|11/26(火)|@supermomonga||
-|362|11/27(水)|@thinca||
+|361|11/26(火)|@supermomonga|"新・ももんが流NeoBundle管理術（あたらしい）":http://blog.supermomonga.com/articles/vim/neobundle-sugoi-setting.html|
+|362|11/27(水)|@thinca|"本当にキモい Vim script - . 演算子編":http://d.hatena.ne.jp/thinca/20131127/1385487671|
 |363|11/28(木)|@||
 |364|11/29(金)|@||
 |365|11/30(土)|@||
