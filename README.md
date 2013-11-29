@@ -64,7 +64,7 @@ h2. 今月のスケジュール
 |361|11/26(火)|@supermomonga|"新・ももんが流NeoBundle管理術（あたらしい）":http://blog.supermomonga.com/articles/vim/neobundle-sugoi-setting.html|
 |362|11/27(水)|@thinca|"本当にキモい Vim script - . 演算子編":http://d.hatena.ne.jp/thinca/20131127/1385487671|
 |363|11/28(木)|@haya14busa|"Vim-Easymotionを拡張してカーソルを縦横無尽に楽々移動する":http://haya14busa.com/vim-lazymotion-on-speed/|
-|364|11/29(金)|@||
+|364|11/29(金)|@saihoooooooo|"neocompleteを入れてみた作業ログ":http://saihoooooooo.hatenablog.com/entry/2013/11/29/152525|
 |365|11/30(土)|@||
 
 
