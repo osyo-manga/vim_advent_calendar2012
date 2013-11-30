@@ -1,74 +1,12 @@
 TOP絵は "@IMAGEDRIVE":https://twitter.com/IMAGEDRIVE さんに書いて頂きました。
 
 
-h2. Vim Advent Calendar 2012 は11月末で終了します！
-
-既に残り30日ほどですがまだまだ書きたい人は募集中です！
-何か書いてみたい事があれば今がチャンス！
-また、 "Vim Advent Calendar 2013":http://atnd.org/events/45072 の募集も開始しました。
-気になる方はこちらにもご参加下さい。
-
-h2. 2回目以降の記事を書きたい方へ
-
-お手数ですが、 "@osyo_memo":https://twitter.com/osyo_memo か "lingr の Vim部屋":http://lingr.com/room/vim までご連絡ください。
-
-　
-
-h4. 去年好評だった Vim Advent Calendar を今年もやりたいと思います！！
-去年の内容は "こちら":http://atnd.org/events/21925 を参照して下さい。
+h2. Vim Advent Calendar 2012 は終了しました
+参加された皆さんお疲れ様でした！！
 
 
-h2. イベント参加への流れ
 
-h4. 1. 参加したい方は参加登録する
-2. 参加した後にこちらで担当する日程を割り振るので後ほど確認する
-3. 担当する日にちに Vim に関する記事をブログ等に投稿する
-4. 投稿した記事へのURLをここのコメント欄に記載する
-
-
-記事の内容は Vim の機能に関する事でもプラグインでも Vim script でも Vim の歌でも Vim に関する事ならなんでも構いません！
-それぞれの Vim への愛情を確認しましょう！
-
-h2. 通常の Advent Calendar とは違い、特に終了期日は設けないのでどんどん参加しましょう！
-目指せ 365日更新
-
-
-h2. 今月のスケジュール
-
-|335|10/31(木)|@LeafCage|"副作用の少ないYankRing.vimみたいなのができました":http://leafcage.hateblo.jp/entry/2013/10/31/yankroundvim|
-|336|11/01(金)|@manga_osyo|"unite-anzu つくった":http://d.hatena.ne.jp/osyo-manga/20131101/1383302165|
-|337|11/02(土)|@ShougoMatsu|"バトルエディターズ　第三話：宿命の対決":http://vinarian.blogspot.jp/2013/11/vim-advent-calendar-337.html|
-|338|11/03(日)|@mittan|"MacのVimで通知センターを使う":http://modsound.github.io/blog/2013/11/03/mac-notify-vim/|
-|339|11/04(月)|@thinca|"本当にキモい Vim script - 正規表現編":http://d.hatena.ne.jp/thinca/20131104/1383498883|
-|340|11/05(火)|@manga_osyo|"Vim の :substitute をプレビューするプラグインつくった":http://d.hatena.ne.jp/osyo-manga/20131105/1383664737|
-|341|11/06(水)|@LeafCage|"README.mdをVimのヘルプファイルから生成する":http://leafcage.hateblo.jp/entry/2013/11/06/075327|
-|342|11/07(木)|@cohama|"Vim で Ruby の def end とかを自動入力する vim-endwise を vim-smartinput で実装してみた":http://cohama.hateblo.jp/entry/2013/11/08/013136|
-|343|11/08(金)|@Linda_pp|"コマンドオプションを解析するライブラリ Vital.OptionParser を書いた":http://rhysd.hatenablog.com/entry/2013/11/08/224821|
-|344|11/09(土)|@manga_osyo|"anzu.vim でマッチしたワードの横に件数を表示させるようにした":http://d.hatena.ne.jp/osyo-manga/20131109/1383996137|
-|345|11/10(日)|@deton_kih|"Vi操作をWindowsアプリで実現するIMEを作りました":https://gist.github.com/deton/7393058|
-|346|11/11(月)|@syui|"Vimで現在のカレント行が変更された時に、カレント行をGrowlで通知する方法":http://mba-hack.blogspot.jp/2013/11/vimgrowl.html|
-|347|11/12(火)|@manga_osyo|"quickrun.vim でリアルタイムに出力を行う場合の注意":http://d.hatena.ne.jp/osyo-manga/20131112/1384255703|
-|348|11/13(水)|@rbtnn|"errorformatについて（入門編）":http://qiita.com/rbtnn/items/92f80d53803ce756b4b8|
-|349|11/14(木)|@unmoremaster|"VimConf 運営委員会の紹介、またはファンレンス運営をやる人のための任意団体口座開設":http://unmoremaster.hatenablog.com/entry/2013/11/14/vimconf-steering-committee|
-|350|11/15(金)|@syui|"「実践Vim」を読んでみた感想と Vim script 初心者講座":http://mba-hack.blogspot.jp/2013/11/vim-vim-script.html|
-|351|11/16(土)|@syngan|"vim-gitlab 作った":http://d.hatena.ne.jp/syngan/20131116/1384528089|
-|352|11/17(日)|@deris0126|"VimConf2013に参加しました":http://deris.hatenablog.jp/entry/2013/11/17/010343|
-|353|11/18(月)|@manga_osyo|":QuickRun を codepad で実行する":http://d.hatena.ne.jp/osyo-manga/20131118/1384772262|
-|354|11/19(火)|@syui|"VimでのMarkdownプレビューを快適にする方法を考えてみた":http://qiita.com/PSP_T/items/152e5ba8e0ff722fa47f|
-|355|11/20(水)|@supermomonoga|"neosnippetとsmartinputで＜CR＞キーのマッピングを共存させる":http://blog.supermomonga.com/articles/vim/share-cr-map-with-multiple-plugins.html|
-|356|11/21(木)|@LeafCage|"'nobuflisted' なバッファの作り方":http://leafcage.hateblo.jp/entry/2013/11/21/083830|
-|357|11/22(金)|@syngan|"vim-vimlint 作った":http://d.hatena.ne.jp/syngan/20131122/1385046290|
-|358|11/23(土)|@manga_osyo|"Vim でコマンドからインクルードを挿入するプラグインつくった":http://d.hatena.ne.jp/osyo-manga/20131123/1385218194|
-|359|11/24(日)|@akiyan|"vim-textobj-php を作ったらphpビューテンプレートの編集が超捗った - akiyan.com":http://www.akiyan.com/blog/archives/2013/11/vim-textobj-php.html|
-|360|11/25(月)|@syui|"Vim script初心者講座 vol.2":http://mba-hack.blogspot.jp/2013/11/vim-script-vol2.html|
-|361|11/26(火)|@supermomonga|"新・ももんが流NeoBundle管理術（あたらしい）":http://blog.supermomonga.com/articles/vim/neobundle-sugoi-setting.html|
-|362|11/27(水)|@thinca|"本当にキモい Vim script - . 演算子編":http://d.hatena.ne.jp/thinca/20131127/1385487671|
-|363|11/28(木)|@haya14busa|"Vim-Easymotionを拡張してカーソルを縦横無尽に楽々移動する":http://haya14busa.com/vim-lazymotion-on-speed/|
-|364|11/29(金)|@saihoooooooo|"neocompleteを入れてみた作業ログ":http://saihoooooooo.hatenablog.com/entry/2013/11/29/152525|
-|365|11/30(土)|@||
-
-
-h2. 過去のスケジュール
+h2. スケジュール
 
 |_.番号|_.日付|_.担当|_.内容|
 |001|12/01(土)|@manga_osyo|"Vim プラグインを github で公開するまで":http://d.hatena.ne.jp/osyo-manga/20121201/1354288903|
@@ -406,6 +344,37 @@ h2. 過去のスケジュール
 |333|10/29(火)|@LeafCage|"ユーザに入力をさせるinput()のインターフェイスが不満すぎて仕方がないならctrlp.vim風の入力インターフェイスalti.vimを使おう":http://leafcage.hateblo.jp/entry/2013/10/29/altivim_intro|
 |334|10/30(水)|@manga_osyo|"unite-messages をつくってみる":http://d.hatena.ne.jp/osyo-manga/20131030/1383144724|
 
+|335|10/31(木)|@LeafCage|"副作用の少ないYankRing.vimみたいなのができました":http://leafcage.hateblo.jp/entry/2013/10/31/yankroundvim|
+|336|11/01(金)|@manga_osyo|"unite-anzu つくった":http://d.hatena.ne.jp/osyo-manga/20131101/1383302165|
+|337|11/02(土)|@ShougoMatsu|"バトルエディターズ　第三話：宿命の対決":http://vinarian.blogspot.jp/2013/11/vim-advent-calendar-337.html|
+|338|11/03(日)|@mittan|"MacのVimで通知センターを使う":http://modsound.github.io/blog/2013/11/03/mac-notify-vim/|
+|339|11/04(月)|@thinca|"本当にキモい Vim script - 正規表現編":http://d.hatena.ne.jp/thinca/20131104/1383498883|
+|340|11/05(火)|@manga_osyo|"Vim の :substitute をプレビューするプラグインつくった":http://d.hatena.ne.jp/osyo-manga/20131105/1383664737|
+|341|11/06(水)|@LeafCage|"README.mdをVimのヘルプファイルから生成する":http://leafcage.hateblo.jp/entry/2013/11/06/075327|
+|342|11/07(木)|@cohama|"Vim で Ruby の def end とかを自動入力する vim-endwise を vim-smartinput で実装してみた":http://cohama.hateblo.jp/entry/2013/11/08/013136|
+|343|11/08(金)|@Linda_pp|"コマンドオプションを解析するライブラリ Vital.OptionParser を書いた":http://rhysd.hatenablog.com/entry/2013/11/08/224821|
+|344|11/09(土)|@manga_osyo|"anzu.vim でマッチしたワードの横に件数を表示させるようにした":http://d.hatena.ne.jp/osyo-manga/20131109/1383996137|
+|345|11/10(日)|@deton_kih|"Vi操作をWindowsアプリで実現するIMEを作りました":https://gist.github.com/deton/7393058|
+|346|11/11(月)|@syui|"Vimで現在のカレント行が変更された時に、カレント行をGrowlで通知する方法":http://mba-hack.blogspot.jp/2013/11/vimgrowl.html|
+|347|11/12(火)|@manga_osyo|"quickrun.vim でリアルタイムに出力を行う場合の注意":http://d.hatena.ne.jp/osyo-manga/20131112/1384255703|
+|348|11/13(水)|@rbtnn|"errorformatについて（入門編）":http://qiita.com/rbtnn/items/92f80d53803ce756b4b8|
+|349|11/14(木)|@unmoremaster|"VimConf 運営委員会の紹介、またはファンレンス運営をやる人のための任意団体口座開設":http://unmoremaster.hatenablog.com/entry/2013/11/14/vimconf-steering-committee|
+|350|11/15(金)|@syui|"「実践Vim」を読んでみた感想と Vim script 初心者講座":http://mba-hack.blogspot.jp/2013/11/vim-vim-script.html|
+|351|11/16(土)|@syngan|"vim-gitlab 作った":http://d.hatena.ne.jp/syngan/20131116/1384528089|
+|352|11/17(日)|@deris0126|"VimConf2013に参加しました":http://deris.hatenablog.jp/entry/2013/11/17/010343|
+|353|11/18(月)|@manga_osyo|":QuickRun を codepad で実行する":http://d.hatena.ne.jp/osyo-manga/20131118/1384772262|
+|354|11/19(火)|@syui|"VimでのMarkdownプレビューを快適にする方法を考えてみた":http://qiita.com/PSP_T/items/152e5ba8e0ff722fa47f|
+|355|11/20(水)|@supermomonoga|"neosnippetとsmartinputで＜CR＞キーのマッピングを共存させる":http://blog.supermomonga.com/articles/vim/share-cr-map-with-multiple-plugins.html|
+|356|11/21(木)|@LeafCage|"'nobuflisted' なバッファの作り方":http://leafcage.hateblo.jp/entry/2013/11/21/083830|
+|357|11/22(金)|@syngan|"vim-vimlint 作った":http://d.hatena.ne.jp/syngan/20131122/1385046290|
+|358|11/23(土)|@manga_osyo|"Vim でコマンドからインクルードを挿入するプラグインつくった":http://d.hatena.ne.jp/osyo-manga/20131123/1385218194|
+|359|11/24(日)|@akiyan|"vim-textobj-php を作ったらphpビューテンプレートの編集が超捗った - akiyan.com":http://www.akiyan.com/blog/archives/2013/11/vim-textobj-php.html|
+|360|11/25(月)|@syui|"Vim script初心者講座 vol.2":http://mba-hack.blogspot.jp/2013/11/vim-script-vol2.html|
+|361|11/26(火)|@supermomonga|"新・ももんが流NeoBundle管理術（あたらしい）":http://blog.supermomonga.com/articles/vim/neobundle-sugoi-setting.html|
+|362|11/27(水)|@thinca|"本当にキモい Vim script - . 演算子編":http://d.hatena.ne.jp/thinca/20131127/1385487671|
+|363|11/28(木)|@haya14busa|"Vim-Easymotionを拡張してカーソルを縦横無尽に楽々移動する":http://haya14busa.com/vim-lazymotion-on-speed/|
+|364|11/29(金)|@saihoooooooo|"neocompleteを入れてみた作業ログ":http://saihoooooooo.hatenablog.com/entry/2013/11/29/152525|
+|365|11/30(土)|@manga_osyo|"Vim Advent Calendar 2012 まとめ":http://d.hatena.ne.jp/osyo-manga/20131130/1385820282|
 
 h2. コメントのテンプレです。
 
