@@ -343,7 +343,6 @@ h2. スケジュール
 |332|10/28(月)|@manga_osyo|"unite.vim の action を定義する":http://d.hatena.ne.jp/osyo-manga/20131028/1382963891|
 |333|10/29(火)|@LeafCage|"ユーザに入力をさせるinput()のインターフェイスが不満すぎて仕方がないならctrlp.vim風の入力インターフェイスalti.vimを使おう":http://leafcage.hateblo.jp/entry/2013/10/29/altivim_intro|
 |334|10/30(水)|@manga_osyo|"unite-messages をつくってみる":http://d.hatena.ne.jp/osyo-manga/20131030/1383144724|
-
 |335|10/31(木)|@LeafCage|"副作用の少ないYankRing.vimみたいなのができました":http://leafcage.hateblo.jp/entry/2013/10/31/yankroundvim|
 |336|11/01(金)|@manga_osyo|"unite-anzu つくった":http://d.hatena.ne.jp/osyo-manga/20131101/1383302165|
 |337|11/02(土)|@ShougoMatsu|"バトルエディターズ　第三話：宿命の対決":http://vinarian.blogspot.jp/2013/11/vim-advent-calendar-337.html|
